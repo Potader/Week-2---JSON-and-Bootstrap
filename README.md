@@ -1,6 +1,6 @@
 # CSC 350 Week 2 Assignment - JSON and Bootstrap
 
-This assignment is to practice JSON object useage and an introduction to Bootstrap 5.
+This assignment is to practice JSON object usage and an introduction to Bootstrap 5.
 
 ## PS
 
